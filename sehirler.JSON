@@ -1,0 +1,405 @@
+    {
+      "cityName": "Adana",
+      "neighbours": ["Hatay", "Kahramanmaraş", "Kayseri", "Mersin", "Niğde","Osmaniye"],
+      "distances": [191, 192, 335, 69, 207,87]
+    },
+    {
+      "cityName": "Adıyaman",
+      "neighbours": ["Gaziantep", "Şanlıurfa", "Diyarbakır", "Malatya","Kahramanmaraş"],
+      "distances": [150, 112, 207, 187,163]
+    },
+    {
+      "cityName": "Afyonkarahisar",
+      "neighbours": ["Kütahya", "Uşak", "Denizli", "Burdur", "Isparta", "Eskişehir", "Konya"],
+      "distances": [100, 115, 222, 169, 168, 144, 223]
+    },
+    {
+      "cityName": "Ağrı",
+      "neighbours": ["Iğdır", "Kars", "Erzurum", "Muş", "Van","Bitlis"],
+      "distances": [143, 217, 183, 245, 230, 234]
+    },
+    {
+      "cityName": "Amasya",
+      "neighbours": ["Tokat", "Samsun", "Yozgat", "Çorum"],
+      "distances": [114, 131, 200, 92]
+    },
+    {
+      "cityName": "Ankara",
+      "neighbours": ["Kırıkkale", "Aksaray", "Konya", "Eskişehir", "Bolu", "Çankırı", "Kırşehir"],
+      "distances": [75, 225, 258, 233, 191, 130, 184]
+    },
+    {
+      "cityName": "Antalya",
+      "neighbours": ["Muğla", "Burdur", "Isparta", "Konya", "Karaman", "Mersin"],
+      "distances": [311, 122, 130, 322, 374, 466]
+    },
+    {
+      "cityName": "Ardahan",
+      "neighbours": ["Kars", "Artvin","Erzurum"],
+      "distances": [94, 116,233]
+      },
+    {
+      "cityName": "Artvin",
+      "neighbours": ["Rize", "Erzurum", "Ardahan"],
+      "distances": [161, 226, 116]
+    },
+    {
+      "cityName": "Aydın",
+      "neighbours": ["Muğla", "Denizli", "Manisa", "İzmir"],
+      "distances": [99, 126, 155, 126]
+    },
+    {
+      "cityName": "Balıkesir",
+      "neighbours": ["Çanakkale", "Manisa", "İzmir", "Bursa","Kütahya"],
+      "distances": [198, 141, 176, 151, 228]
+    },
+    {
+      "cityName": "Bilecik",
+      "neighbours": ["Sakarya", "Bursa", "Kütahya", "Eskişehir","Bolu"],
+      "distances": [99, 95, 112, 83,213]
+    },
+    {
+      "cityName": "Bingöl",
+      "neighbours": ["Muş", "Erzurum", "Erzincan", "Tunceli", "Diyarbakır","Elazığ"],
+      "distances": [111, 178, 275, 144, 141, 145]
+    },
+    {
+      "cityName": "Bitlis",
+      "neighbours": ["Siirt", "Batman", "Muş", "Ağrı", "Van"],
+      "distances": [96, 135, 83, 234, 163]
+    },
+    {
+      "cityName": "Bolu",
+      "neighbours": ["Zonguldak", "Çankırı", "Ankara", "Düzce", "Eskişehir","Bilecik","Sakarya"],
+      "distances": [157, 233, 191, 45, 291, 213, 114 ]
+    },
+    {
+      "cityName": "Burdur",
+      "neighbours": ["Isparta", "Antalya", "Muğla", "Denizli", "Afyonkarahisar"],
+      "distances": [51, 122, 241, 150, 169]
+    },
+    {
+      "cityName": "Bursa",
+      "neighbours": ["Yalova", "Kocaeli", "Sakarya", "Bilecik", "Balıkesir", "Kütahya"],
+      "distances": [69, 132, 160, 95, 151, 177]
+    },
+    {
+      "cityName": "Çanakkale",
+      "neighbours": ["Balıkesir", "Edirne", "Tekirdağ"],
+      "distances": [198, 216, 187]
+    },
+    {
+      "cityName": "Çankırı",
+      "neighbours": ["Kastamonu", "Kırıkkale", "Ankara", "Karabük", "Bolu", "Çorum","Zonguldak"],
+      "distances": [106, 104, 130, 193, 233, 156, 293]
+    },
+    {
+      "cityName": "Çorum",
+      "neighbours": ["Amasya", "Kırıkkale", "Samsun", "Sinop", "Kastamonu", "Yozgat", "Çankırı"],
+      "distances": [92, 166, 172, 266, 197, 108, 156]
+    },
+    {
+      "cityName": "Denizli",
+      "neighbours": ["Uşak", "Afyonkarahisar", "Burdur", "Muğla", "Aydın", "Manisa"],
+      "distances": [150, 222, 150, 145, 126, 208]
+    },
+    {
+      "cityName": "Diyarbakır",
+      "neighbours": ["Batman", "Mardin", "Şanlıurfa", "Adıyaman", "Malatya", "Elazığ", "Bingöl", "Muş"],
+      "distances": [100, 96, 176, 207, 249, 153, 141, 252]
+    },
+    {
+      "cityName": "Edirne",
+      "neighbours": ["Kırklareli", "Tekirdağ","Çanakkale"],
+      "distances": [65, 140, 216]
+    },
+    {
+      "cityName": "Elazığ",
+      "neighbours": ["Malatya", "Diyarbakır", "Tunceli", "Bingöl", "Erzincan"],
+      "distances": [98, 153, 136, 145, 267]
+    },
+      {
+      "cityName": "Düzce",
+      "neighbours": ["Bolu", "Sakarya", "Zonguldak"],
+      "distances": [45, 69, 113]
+      },
+    {
+      "cityName": "Erzincan",
+      "neighbours": ["Tunceli", "Elazığ", "Erzurum", "Bayburt", "Gümüşhane", "Bingöl", "Giresun", "Sivas", "Malatya"],
+      "distances": [131, 267, 190, 155, 133, 275, 296, 248, 363]
+    },
+    {
+      "cityName": "Erzurum",
+      "neighbours": ["Ağrı", "Kars", "Ardahan", "Artvin", "Rize", "Bayburt", "Bingöl", "Erzincan", "Trabzon", "Muş"],
+      "distances": [183, 206, 233, 226, 259, 125, 178, 190, 296, 266]
+    },
+    {
+      "cityName": "Eskişehir",
+      "neighbours": ["Kütahya", "Afyonkarahisar", "Bilecik", "Ankara", "Bolu", "Konya"],
+      "distances": [78, 144, 83, 233, 291, 338]
+    },
+    {
+      "cityName": "Gaziantep",
+      "neighbours": ["Şanlıurfa", "Adıyaman", "Kilis", "Hatay", "Osmaniye","Kahramanmaraş"],
+      "distances": [137, 150, 64, 193, 125, 76]
+    }, 
+    {
+      "cityName": "Giresun",
+      "neighbours": ["Trabzon", "Gümüşhane", "Erzincan", "Sivas", "Ordu"],
+      "distances": [136, 163, 296, 298, 44]
+    },
+    {
+      "cityName": "Gümüşhane",
+      "neighbours": ["Bayburt", "Erzincan", "Trabzon", "Giresun"],
+      "distances": [78, 133, 101, 163]
+    },
+    {
+      "cityName": "Hakkari",
+      "neighbours": ["Van", "Şırnak"],
+      "distances": [202, 189]
+    },
+    {
+      "cityName": "Hatay",
+      "neighbours": ["Osmaniye", "Adana", "Gaziantep", "Kilis"],
+      "distances": [129, 191, 193, 145]
+    },
+    {
+      "cityName": "Iğdır",
+      "neighbours": ["Ağrı", "Kars"],
+      "distances": [143, 140]
+    },
+    {
+      "cityName": "Isparta",
+      "neighbours": ["Burdur", "Antalya", "Afyonkarahisar", "Konya"],
+      "distances": [51, 130, 168, 263]
+    },
+    {
+      "cityName": "İstanbul",
+      "neighbours": ["Tekirdağ", "Kocaeli", "Kırklareli"],
+      "distances": [132, 111, 211]
+    },
+    {
+      "cityName": "İzmir",
+      "neighbours": ["Manisa", "Aydın", "Balıkesir"],
+      "distances": [35, 126, 176]
+    },
+    {
+      "cityName": "Kahramanmaraş",
+      "neighbours": ["Adana", "Osmaniye", "Gaziantep", "Sivas", "Adıyaman", "Malatya", "Kayseri"],
+      "distances": [192, 105, 76, 327, 163, 224, 261]
+    },
+    {
+      "cityName": "Karabük",
+      "neighbours": ["Bartın", "Zonguldak", "Çankırı", "Kastamonu"],
+      "distances": [90, 100, 193, 114]
+    },
+    {
+      "cityName": "Karaman",
+      "neighbours": ["Mersin", "Konya", "Antalya"],
+      "distances": [235, 119, 374]
+    },
+    {
+      "cityName": "Kars",
+      "neighbours": ["Iğdır", "Ağrı", "Erzurum","Ardahan"],
+      "distances": [140, 217, 206, 94]
+    },
+    {
+      "cityName": "Kastamonu",
+      "neighbours": ["Sinop", "Çankırı", "Çorum", "Bartın", "Karabük"],
+      "distances": [183, 106, 197, 183, 114]
+    },
+      {
+      "cityName": "Kilis",
+      "neighbours": ["Gaziantep", "Hatay"],
+      "distances": [64, 145]
+      },
+    {
+      "cityName": "Kayseri",
+      "neighbours": ["Sivas", "Nevşehir", "Niğde", "Adana", "Yozgat", "Kahramanmaraş"],
+      "distances": [194, 81, 128, 335, 197, 261]
+    },
+      {
+      "cityName": "Batman",
+      "neighbours": ["Diyarbakır", "Mardin", "Siirt", "Muş","Bitlis"],
+      "distances": [100, 150, 86, 218, 135]
+      },
+    {
+      "cityName": "Kırıkkale",
+      "neighbours": ["Çorum", "Yozgat", "Kırşehir", "Çankırı", "Ankara"],
+      "distances": [166, 140, 113, 104, 75]
+    } ,
+    {
+      "cityName": "Kırklareli",
+      "neighbours": ["Edirne", "Tekirdağ","İstanbul"],
+      "distances": [62, 121,211]
+    },
+    {
+      "cityName": "Kırşehir",
+      "neighbours": ["Aksaray", "Nevşehir", "Yozgat", "Kırıkkale", "Ankara"],
+      "distances": [110, 91, 112, 113, 184]
+    },
+    {
+      "cityName": "Kocaeli",
+      "neighbours": ["İstanbul", "Sakarya", "Bursa", "Yalova","Bilecik"],
+      "distances": [111, 37, 132, 65, 136]
+    },
+    {
+      "cityName": "Konya",
+      "neighbours": ["Karaman", "Antalya", "Isparta", "Afyonkarahisar", "Eskişehir", "Ankara", "Aksaray", "Mersin", "Niğde"],
+      "distances": [119, 322, 223, 338, 258, 319, 148, 348, 242]
+    },
+    {
+      "cityName": "Kütahya",
+      "neighbours": ["Uşak", "Manisa", "Afyonkarahisar", "Eskişehir", "Bilecik", "Balıkesir", "Bursa"],
+      "distances": [139, 316, 100, 78, 112, 228, 177]
+    },
+    {
+      "cityName": "Malatya",
+      "neighbours": ["Adıyaman", "Kahramanmaraş","Sivas", "Erzincan", "Elazığ", "Diyarbakır"],
+      "distances": [187, 224, 246, 363, 98, 249]
+    },
+    {
+      "cityName": "Manisa",
+      "neighbours": ["İzmir", "Aydın", "Denizli", "Uşak", "Kütahya", "Balıkesir"],
+      "distances": [35, 155, 208, 195, 316, 141]
+    },
+    {
+      "cityName": "Mardin",
+      "neighbours": ["Şanlıurfa", "Diyarbakır", "Batman", "Siirt", "Şırnak"],
+      "distances": [188, 96, 150, 227, 197]
+    },
+    {
+      "cityName": "Mersin",
+      "neighbours": ["Adana", "Karaman", "Niğde", "Antalya", "Konya"],
+      "distances": [69, 235, 200, 466, 348]
+    },
+    {
+      "cityName": "Muğla",
+      "neighbours": ["Denizli", "Burdur", "Antalya", "Aydın"],
+      "distances": [145, 241, 311, 99]
+    },
+    {
+      "cityName": "Muş",
+      "neighbours": ["Bingöl", "Erzurum", "Ağrı", "Bitlis", "Diyarbakır", "Batman"],
+      "distances": [111, 266, 245, 83, 252, 218]
+    },
+    {
+      "cityName": "Nevşehir",
+      "neighbours": ["Aksaray", "Niğde", "Kayseri", "Kırşehir", "Yozgat"],
+      "distances": [75, 82, 81, 91, 203]
+    },
+    {
+      "cityName": "Niğde",
+      "neighbours": ["Kayseri", "Nevşehir", "Aksaray", "Adana", "Mersin", "Konya"],
+      "distances": [128, 82, 122, 207, 200, 242]
+    },
+    {
+      "cityName": "Ordu",
+      "neighbours": ["Giresun", "Sivas", "Tokat", "Samsun"],
+      "distances": [44, 314, 217, 151]
+    },
+    {
+      "cityName": "Osmaniye",
+      "neighbours": ["Adana", "Hatay", "Gaziantep", "Kahramanmaraş"],
+      "distances": [87, 129, 125, 105]
+    },
+    {
+      "cityName": "Rize",
+      "neighbours": ["Artvin", "Erzurum", "Trabzon", "Bayburt"],
+      "distances": [161, 259, 75, 254]
+    },
+    {
+      "cityName": "Sakarya",
+      "neighbours": ["Kocaeli", "Bursa", "Düzce", "Bolu", "Bilecik"],
+      "distances": [37, 160, 69, 114, 99]
+    },
+    {
+      "cityName": "Samsun",
+      "neighbours": ["Tokat", "Amasya", "Çorum","Ordu", "Sinop"],
+      "distances": [229, 131, 172, 151, 155]
+    },
+    {
+      "cityName": "Siirt",
+      "neighbours": ["Şırnak", "Mardin", "Batman", "Bitlis", "Van"],
+      "distances": [96, 227, 86, 96, 259]
+    },
+    {
+      "cityName": "Sinop",
+      "neighbours": ["Samsun", "Çorum", "Kastamonu"],
+      "distances": [155, 266, 183]
+    },
+    {
+      "cityName": "Sivas",
+      "neighbours": ["Kayseri", "Malatya", "Erzincan", "Giresun", "Ordu", "Tokat", "Kahramanmaraş", "Yozgat"],
+      "distances": [194, 246, 248, 298, 314, 108, 327, 224]
+    },
+    {
+      "cityName": "Şanlıurfa",
+      "neighbours": ["Gaziantep", "Adıyaman", "Mardin", "Diyarbakır"],
+      "distances": [137, 112, 188, 176]
+    },
+      {
+      "cityName": "Bartın",
+      "neighbours": ["Zonguldak", "Karabük", "Kastamonu"],
+      "distances": [87, 89, 183]
+      },
+    {
+      "cityName": "Şırnak",
+      "neighbours": ["Siirt", "Mardin", "Hakkari", "Van"],
+      "distances": [96, 197, 189, 355]
+    },
+    {
+      "cityName": "Tekirdağ",
+      "neighbours": ["Edirne", "Çanakkale", "İstanbul", "Kırklareli"],
+      "distances": [140, 187, 131, 121]
+    },
+    {
+      "cityName": "Tokat",
+      "neighbours": ["Sivas", "Amasya", "Samsun", "Ordu", "Yozgat"],
+      "distances": [108, 114, 229, 218, 205]
+    },
+    {
+      "cityName": "Trabzon",
+      "neighbours": ["Giresun", "Gümüşhane", "Bayburt", "Rize"],
+      "distances": [136, 101, 179, 75]
+    },
+    {
+      "cityName": "Tunceli",
+      "neighbours": ["Bingöl", "Elazığ", "Erzincan"],
+      "distances": [144, 135, 131]
+    },
+    {
+      "cityName": "Uşak",
+      "neighbours": ["Manisa", "Denizli", "Afyonkarahisar", "Kütahya"],
+      "distances": [195, 150, 115, 139]
+    },
+    {
+      "cityName": "Van",
+      "neighbours": ["Hakkari", "Bitlis", "Ağrı", "Siirt", "Şırnak"],
+      "distances": [202, 163, 230, 259, 355]
+    },
+    {
+      "cityName": "Yalova",
+      "neighbours": ["Kocaeli", "Bursa"],
+      "distances": [65, 69]
+    },
+    {
+      "cityName": "Aksaray",
+      "neighbours": ["Ankara", "Nevşehir", "Niğde","Konya","Kırşehir"],
+      "distances": [225, 75, 122, 148,110]
+    },
+      {
+      "cityName": "Bayburt",
+      "neighbours": ["Erzurum", "Gümüşhane", "Trabzon", "Erzincan", "Rize"],
+      "distances": [125, 78, 179, 155, 254]
+      },
+    {
+      "cityName": "Yozgat",
+      "neighbours": ["Kırşehir", "Kayseri", "Nevşehir", "Kırıkkale","Amasya", "Tokat", "Çorum", "Sivas"],
+      "distances": [112, 197, 203, 140, 200, 205, 108, 224]
+    },
+    {
+      "cityName": "Zonguldak",
+      "neighbours": ["Bartın", "Karabük", "Bolu", "Çankırı", "Düzce"],
+      "distances": [87, 100, 157, 293, 113]
+    }
