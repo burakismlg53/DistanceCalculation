@@ -5,5 +5,5 @@
 [Youtube Videosu](https://youtu.be/nHs_MrrZ6oQ)
 
 <br>
-https://github.com/burakismlg53/DistanceCalculation/assets/80219641/d71ffc01-1f7d-4f39-8417-efb0c8d37c0b
+<!--https://github.com/burakismlg53/DistanceCalculation/assets/80219641/d71ffc01-1f7d-4f39-8417-efb0c8d37c0b -->
 
